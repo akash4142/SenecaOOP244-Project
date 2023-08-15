@@ -1,0 +1,13 @@
+/*name - akash yadav
+student no. = 172566218
+seneca email- ayadav35@myseneca.ca
+section - ncc
+
+citation-:
+
+ I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+
+*/
+
+
+reflection - hi professor , in this project i have used everything we have learnt so far in this course be it constructors , destructors, memory leaks ,inheritance and many more topics . This was actually a fun for me to complete this project because inorder to practice all the stuff i have learnt i was already working on the project that was about the bank management system so i was already practicing it.
